@@ -1,0 +1,36 @@
+.heading{
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+    box-shadow:  5px 5px 5px black;
+}
+.header_div_1{
+    background: rgba(0, 76, 255, 0.669);
+    color: black;
+    padding: 10px;
+    border-radius: 40px;
+    box-shadow:  5px 5px 5px  red;
+    float: none;
+}
+.header_div_2{
+    font-size: 18px;
+}
+.ptag{
+    font-size: 24px;
+    box-shadow:  5px 5px 5px blue;
+}
+.footer_div{
+    background-color: burlywood;
+    color: darkblue;
+    width: 100%;
+    bottom: 0;
+    line-height: 3;
+    text-align: center;
+    position: fixed;
+}
+canvas{
+    margin-top: 200px;
+    box-shadow:  5px 5px 5px blue;
+    border-radius: 40px;
+    border: 6px solid whitesmoke;
+}
